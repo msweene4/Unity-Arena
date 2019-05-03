@@ -1,0 +1,138 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Moustache
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Moustache_Opacity.png
+map_Kd SkaterGuy_Moustache_Diffuse.png
+adobe_map_normal SkaterGuy_Moustache_Normal.png
+map_Ks SkaterGuy_Moustache_Specular.png
+adobe_map_shininess SkaterGuy_Moustache_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Shoes_Opacity.png
+map_Kd SkaterGuy_Shoes_Diffuse.png
+adobe_map_normal SkaterGuy_Shoes_Normal.png
+map_Ks SkaterGuy_Shoes_Specular.png
+adobe_map_shininess SkaterGuy_Shoes_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Hair_Opacity.png
+map_Kd SkaterGuy_Hair_Diffuse.png
+adobe_map_normal SkaterGuy_Hair_Normal.png
+map_Ks SkaterGuy_Hair_Specular.png
+adobe_map_shininess SkaterGuy_Hair_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Bottom_Opacity.png
+map_Kd SkaterGuy_Bottom_Diffuse.png
+adobe_map_normal SkaterGuy_Bottom_Normal.png
+map_Ks SkaterGuy_Bottom_Specular.png
+adobe_map_shininess SkaterGuy_Bottom_Gloss.png
+
+newmtl Hat
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Hat_Opacity.png
+map_Kd SkaterGuy_Hat_Diffuse.png
+adobe_map_normal SkaterGuy_Hat_Normal.png
+map_Ks SkaterGuy_Hat_Specular.png
+adobe_map_shininess SkaterGuy_Hat_Gloss.png
+
+newmtl Beard
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Beard_Opacity.png
+map_Kd SkaterGuy_Beard_Diffuse.png
+adobe_map_normal SkaterGuy_Beard_Normal.png
+map_Ks SkaterGuy_Beard_Specular.png
+adobe_map_shininess SkaterGuy_Beard_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Body_Opacity.png
+map_Kd SkaterGuy_Body_Diffuse.png
+adobe_map_normal SkaterGuy_Body_Normal.png
+map_Ks SkaterGuy_Body_Specular.png
+adobe_map_shininess SkaterGuy_Body_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d SkaterGuy_Top_Opacity.png
+map_Kd SkaterGuy_Top_Diffuse.png
+adobe_map_normal SkaterGuy_Top_Normal.png
+map_Ks SkaterGuy_Top_Specular.png
+adobe_map_shininess SkaterGuy_Top_Gloss.png
+
